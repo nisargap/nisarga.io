@@ -2,7 +2,7 @@
 title: "Why Hugo Is My Blog Engine of Choice"
 date: 2017-09-24T15:49:29-04:00
 subtitle: ""
-tags: ["general", "technology"]
+categories: ["general", "technology"]
 ---
 
 I had been thinking about starting a development blog for a very long time and was looking for a solid blog engine or static website generator to make the process of creating my blog and getting content out there as quickly as possible a bit more streamlined. In the past I had used [GatsbyJS](https://github.com/gatsbyjs/gatsby) which had suited my needs but this time around I felt like I needed something that was different. Gatsby is definitely a great blog engine but getting the compatibility right with various plugins because of the fact that it was React took some time to get used to.

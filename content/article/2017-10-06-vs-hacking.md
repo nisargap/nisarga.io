@@ -2,7 +2,7 @@
 title: "Software Development Vs. Just Hacking"
 date: 2017-10-06T22:44:48-04:00
 subtitle: ""
-tags: ["general", "technology"]
+categories: ["general", "technology"]
 ---
 
 Making the transition from hacking away at projects and gearing one's self towards professional software development takes time, consistency, and considerable effort. Professional software development is measured, deals with edge cases, and has a specific methodology that it follows. Hacking can certainly churn out projects quite consistently but the quality of the product will definitely not be of the same caliber.
