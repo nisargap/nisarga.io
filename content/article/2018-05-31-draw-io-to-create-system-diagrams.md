@@ -1,5 +1,5 @@
 ---
-title: "Creating Expressive System Diagrams in Draw.io and the Importance of System Design"
+title: "Creating Expressive System Diagrams in Draw.io & Lucidchart and the Importance of System Design"
 date: 2018-05-31T14:59:58-04:00
 draft: false
 
@@ -18,9 +18,13 @@ author: "Nisarga Patel"
 
 Above is an example of simple rules microservice described with Draw.io. Much more complicated services and platforms can be designed via this software.
 
+##### [Lucidchart](https://www.lucidchart.com) , another option to make awesome charts
+
+One of my friend's, [Darpan Shah](https://www.linkedin.com/in/dmshah/) also recommends [Lucidchart](https://www.lucidchart.com) as a paid option to create amazing diagrams. Lucidchart contains more features than Draw.io and is used by multiple companies such as Starbucks, Target, and Tesla among others. 
+
 ##### Never jump straight into the code!
 
-Jumping into the code too early in the development process can lead to a lot of long term problems for development teams of any size. To prevent issues such as future technical debt, and integration errors, it is prudent to utilize tools such as Draw.io early in the development process.
+Jumping into the code too early in the development process can lead to a lot of long term problems for development teams of any size. To prevent issues such as future technical debt, and integration errors, it is prudent to utilize tools such as Draw.io or Lucidchart early in the development process.
 
 ##### Collaborating on UML Sequence Diagrams, and ER Diagrams
 
