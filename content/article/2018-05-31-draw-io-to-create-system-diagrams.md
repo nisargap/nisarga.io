@@ -7,6 +7,12 @@ featuredImage: "images/drawio/datamodel.jpg"
 categories: ["software"]
 tags: ["product design", "software development"]
 author: "Nisarga Patel"
+twitter:
+  card: "summary"
+  site: "@nphacker"
+  title: "Creating Expressive System Diagrams in Draw.io & Lucidchart and the Importance of System Design"
+  description: "[Draw.io](https://draw.io) is an excellent free tool developed by Atlassian to allow developers and product managers to create expressive system designs."
+  image: "https://nisarga.io/images/drawio/datamodel.jpg"
 ---
 
 [Draw.io](https://draw.io) is an excellent free tool developed by Atlassian to allow developers and product managers to create expressive system designs. Draw.io supports the creation of [UML diagrams](https://www.uml-diagrams.org/), Entity Relationship diagrams, flow charts, and Business Process Modeling Notation (BPMN). In addition to this Draw.io supports a variety of icons in order to describe popular services contained within AWS, as well as other platforms.
