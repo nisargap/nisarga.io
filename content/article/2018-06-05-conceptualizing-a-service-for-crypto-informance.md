@@ -7,6 +7,12 @@ featuredImage: "/images/conceptualizing/dashboard-v1.png"
 categories: ["product development", "software", "cryptocurrency", "design"]
 tags: ["product development", "software", "cryptocurrency"]
 author: "Nisarga Patel"
+twitter:
+  card: "summary"
+  site: "@nphacker"
+  title: "Conceptualizing a Simple Service for Crypto & Stock Market Informance"
+  description: "Often times I have ideas for different types of products and services, many times I usually just write these ideas down to come back to them at a different date - this time I wanted to try something different. In this post I'll be conceptualizing one of these ideas and how it would look like as product from both a backend and frontend design perspective."
+  image: "https://nisarga.io/images/conceptualizing/dashboard-v1.png"
 ---
 
 Often times I have ideas for different types of products and services, many times I usually just write these ideas down to come back to them at a different date - this time I wanted to try something different. In this post I'll be conceptualizing one of these ideas and how it would look like as product from both a backend and frontend design perspective.
@@ -42,6 +48,6 @@ Following the same design principles from the frontpage I also designed the dash
 
 ##### Why?
 
-I chose to conceptualize this simple service as a quick exercise in both backend and frontend design. If you are interested in seeing this service created or know of any similar apps that perform the same or similar functionality feel free to comment below. In the future I plan on writing more posts on conceptualizing the design of different products in short form style.
+I chose to conceptualize this simple service as an exercise in both backend and frontend design. If you are interested in seeing this service created or know of any similar apps that perform the same or similar functionality feel free to comment below. In the future I plan on writing more posts on conceptualizing the design of different products in short form style.
 
 Thanks!
