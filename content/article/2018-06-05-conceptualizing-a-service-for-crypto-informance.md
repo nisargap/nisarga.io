@@ -1,7 +1,7 @@
 ---
 title: "Conceptualizing a Simple Service for Crypto & Stock Market Informance"
 date: 2018-06-05T23:17:26-04:00
-draft: true
+draft: false
 
 featuredImage: "/images/conceptualizing/dashboard-v1.png"
 categories: ["product development", "software", "cryptocurrency", "design"]
