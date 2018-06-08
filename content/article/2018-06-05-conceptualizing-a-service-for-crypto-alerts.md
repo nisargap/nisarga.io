@@ -1,5 +1,5 @@
 ---
-title: "Conceptualizing a Simple Service for Crypto & Stock Market Informance"
+title: "Conceptualizing a Simple Service for Crypto & Stock Market Alerts"
 date: 2018-06-05T23:17:26-04:00
 draft: false
 
@@ -10,7 +10,7 @@ author: "Nisarga Patel"
 twitter:
   card: "summary"
   site: "@nphacker"
-  title: "Conceptualizing a Simple Service for Crypto & Stock Market Informance"
+  title: "Conceptualizing a Simple Service for Crypto & Stock Market Alerts"
   description: "Often times I have ideas for different types of products and services, many times I usually just write these ideas down to come back to them at a different date - this time I wanted to try something different. In this post I'll be conceptualizing one of these ideas and how it would look like as product from both a backend and frontend design perspective."
   image: "https://nisarga.io/images/conceptualizing/dashboard-v1.png"
 ---
@@ -19,7 +19,7 @@ Often times I have ideas for different types of products and services, many time
 
 ##### The idea
 
-This application is essentially a general purpose cryptocurrency and stock market informance service i.e. a system dedicated to giving custom alerts regarding different happenings in the markets via text or email.
+This application is essentially a general purpose cryptocurrency and stock market alert service i.e. a system dedicated to giving custom alerts regarding different happenings in the markets via text or email.
 
 ##### The backend design
 <img src="/images/conceptualizing/service.png" width="300" />
