@@ -1,5 +1,5 @@
 title = "Nisarga Patel"
-baseURL = "nisarga.io"
+baseURL = "https://nisarga.io"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
