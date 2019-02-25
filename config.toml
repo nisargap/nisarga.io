@@ -49,7 +49,7 @@ disqusShortname = "nisarga-io"
     gravatarEMail = ""
 
     # set an path to the image file you want to use | overwrites gravatar
-    customImage = "/images/profilenew.jpg"
+    customImage = "/images/profile.jpg"
 
     # always display the top navigation (with pages and search) on non-mobile screens
     permanentTopNav = false
